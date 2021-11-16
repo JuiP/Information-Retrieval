@@ -23,7 +23,7 @@ Project By:
 **How to run the code**
 --------------------------------------------------------------------------------------------------
 
-1. Clone the repository : git@github.com:JuiP/Information-Retrieval.git
+1. Clone the repository : [git@github.com:JuiP/Information-Retrieval.git](git@github.com:JuiP/Information-Retrieval.git)
 2. cd Information-Retrieval
 3. Run files in the order: 
 
